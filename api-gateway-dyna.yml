@@ -9,3 +9,6 @@ zuul:
     service-c:
       path: /service-c/**
       serviceId: hello-service
+    service-d:
+      path: /service-d/**
+      serviceId: hello-service
